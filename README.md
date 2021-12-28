@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bluegleam0101
+- 👀 I’m interested in machine learning and web development
+- 🌱 I’m currently learning python
